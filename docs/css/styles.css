@@ -1,56 +1,59 @@
-* {
-  box-sizing: border-box;
-}
-
+/* Estilos generales */
 body {
-  margin: 0 auto;
-  padding: 1rem;
-  max-width: 800px;
-  min-height: 100vh;
-  border: medium solid red;
+  font-family: 'Arial', sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+}
+
+/* Barra de navegación con colores de equipo */
+.navbar {
+  background-color: #007BFF; /* Azul oscuro, cambia según tu equipo favorito */
+  border-bottom: 3px solid #FFD700; /* Borde dorado, cambia según los colores del equipo */
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.nav-link:hover {
+  color: #FFD700; /* Resalta los enlaces al pasar el mouse */
+}
+
+/* Título principal con sombra para dar efecto de profundidad */
+h1, h2 {
+  color: #007BFF;
+  text-shadow: 2px 2px #FFD700;
+}
+
+/* Pie de página con colores a juego */
+.footer {
+  background-color: #007BFF;
+  color: #fff;
+  padding: 1rem 0;
   text-align: center;
-  font-family: system-ui, sans-serif;
 }
 
-a {
-  color: #1873a5;
-  transition: all 0.3s ease-out;
-
-  &:hover {
-    color: red;
-  }
+/* Tarjetas de artículos con bordes redondeados y sombras */
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
 }
 
-hr {
-  margin: 2rem auto;
-  width: 80%;
+.card-title {
+  color: #007BFF;
 }
 
-img {
-  display: block;
-  margin: 0 auto;
+.card-text {
+  color: #333;
 }
 
-p,
-li {
-  text-align: left;
+.btn-primary {
+  background-color: #FFD700;
+  border-color: #FFD700;
 }
 
-.menu {
-  width: 100%;
-  max-width: 480px;
-  margin: 0 auto;
-  border: thin solid red;
-
-  ul {
-    margin: 0;
-    padding: 1rem;
-    display: flex;
-    justify-content: space-between;
-    align-content: center;
-  }
-
-  li {
-    list-style: none;
-  }
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
 }

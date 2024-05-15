@@ -4,17 +4,54 @@ title: Página de Blog
 descripction: Meta descripción de la página del Blog
 ---
 
-<h1>{{ title }}</h1>
-<h2>Artículos del blog ordenados ascendentemente</h2>
-<ul>
-  {% for post in collections.blog %}
-    <li><a href="{{ post.url }}"> {{ post.data.title }} - {{ post.data.date }}</a></li>
-  {% endfor %}
-</ul>
-<hr />
-<h2>Artículos del blog ordenados descendentemente</h2>
-<ul>
-  {% for post in collections.blog | reverse %}
-    <li><a href="{{ post.url }}"> {{ post.data.title }} - {{ post.data.date }}</a></li>
-  {% endfor %}
-</ul>
+<!-- Contenido principal -->
+<div class="container mt-4">
+    <h1 class="display-4">Artículos de Fútbol Soccer</h1>
+    <p class="lead">Descubre análisis profundos, historias y estadísticas del mundo del fútbol.</p>
+    
+    <!-- Lista de artículos -->
+    <div class="list-group">
+        <!-- Artículo 1 -->
+        <a href="/libro-1" class="list-group-item list-group-item-action">
+            <h5 class="mb-1">Historia del Fútbol: Un Viaje a Través del Tiempo</h5>
+            <p class="mb-1">Descubre la fascinante historia del fútbol y cómo ha evolucionado a lo largo del tiempo.</p>
+            <button type="button" class="btn btn-link">
+            <img src="ruta-de-la-imagen.jpg" alt="Imagen del artículo">
+            </button>
+        </a>
+        <!-- Artículo 2 -->
+        <a href="/libro-2" class="list-group-item list-group-item-action">
+            <h5 class="mb-1">Reglas del Juego: La Estructura del Fútbol Moderno</h5>
+            <p class="mb-1">Una explicación detallada de las reglas oficiales que rigen el fútbol actual.</p>
+            <button type="button" class="btn btn-link">
+            <img src="ruta-de-la-imagen.jpg" alt="Imagen del artículo">
+            </button>
+        </a>
+        <!-- Artículo 3 -->
+        <a href="/libro-3" class="list-group-item list-group-item-action">
+          <h5 class="mb-1">Equipamiento basico para Football</h5>
+          <p class="mb-1">Descubre las tácticas y estrategias utilizadas por los equipos de fútbol para obtener la victoria.</p>
+          <button type="button" class="btn btn-link">
+          <img src="ruta-de-la-imagen.jpg" alt="Imagen del artículo">
+          </button>
+        </a>
+        <!-- Artículo 4 -->
+        <a href="/pelicula-1" class="list-group-item list-group-item-action">
+          <h5 class="mb-1">Competiciones: Los Torneos más Importantes del Fútbol</h5>
+          <p class="mb-1">Explora las competiciones más destacadas del fútbol a nivel mundial y regional.</p>
+          <button type="button" class="btn btn-link">
+          <img src="ruta-de-la-imagen.jpg" alt="Imagen del artículo">
+          </button>
+        </a>
+        <!-- Artículo 5 -->
+        <a href="/pelicula-2" class="list-group-item list-group-item-action">
+          <h5 class="mb-1">Equipos Historicos</h5>
+          <p class="mb-1">Descubre acerca de los equipos historicos del football.</p>
+          <button type="button" class="btn btn-link">
+          <img src="ruta-de-la-imagen.jpg" alt="Imagen del artículo">
+          </button>
+        </a>
+        <!-- Repite el enlace anterior para cada uno de los 20 artículos -->
+        <!-- ... -->
+    </div>
+</div>

@@ -1,27 +1,63 @@
 ---
 layout: layout-page.njk
-title: Página de inicio
-description: Meta descripción de la página de inicio
+title: Inicio
+description: Pagina de Inicio WikiFútbol
 ---
 
-<h1>{{ title }}</h1>
-<p>
-  Hola, este es un <i>starter project</i> minimalista para crear sitios estáticos con <b><i>11ty</i></b> y desplegarlos en <i>GitHub Pages</i>.
-</p>
-<div>
-  <img src="/img/eleventy.svg" alt="Eleventy">
-  <h2>+</h2>
-  <img src="/img/github.svg" alt="GitHub">
+
+<!-- Contenido principal -->
+<div class="container mt-4">
+<h1 class="display-4">Bienvenidos a la Wiki de Fútbol Soccer</h1>
+<p class="lead">Explora la historia, las reglas y las leyendas del fútbol soccer.</p>
+
+<!-- Sección de artículos -->
+<div class="row">
+        <!-- Artículo 1 -->
+        <div class="col-md-4">
+        <div class="card">
+                <img class="card-img-top" src="imagen_del_articulo1.jpg" alt="Imagen del Artículo 1">
+                <div class="card-body">
+                <h5 class="card-title">Título del Artículo 1</h5>
+                <p class="card-text">Resumen del artículo con al menos 800 palabras...</p>
+                <a href="/blog" class="btn btn-primary">Leer más</a>
+                </div>
+        </div>
+        </div>
+        <!-- Artículo 2 -->
+        <div class="col-md-4">
+          <div class="card">
+            <img class="card-img-top" src="imagen_del_articulo2.jpg" alt="Imagen del Artículo 2">
+            <div class="card-body">
+              <h5 class="card-title">Título del Artículo 2</h5>
+              <p class="card-text">Resumen del artículo con al menos 800 palabras...</p>
+              <a href="/blog" class="btn btn-primary">Leer más</a>
+            </div>
+          </div>
+        </div>
+        <!-- Artículo 3 -->
+        <div class="col-md-4">
+          <div class="card">
+            <img class="card-img-top" src="imagen_del_articulo3.jpg" alt="Imagen del Artículo 3">
+            <div class="card-body">
+              <h5 class="card-title">Título del Artículo 3</h5>
+              <p class="card-text">Resumen del artículo con al menos 800 palabras...</p>
+              <a href="/blog" class="btn btn-primary">Leer más</a>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Artículo 4 -->
+        <div class="col-md-4">
+          <div class="card">
+            <img class="card-img-top" src="imagen_del_articulo4.jpg" alt="Imagen del Artículo 4">
+            <div class="card-body">
+              <h5 class="card-title">Título del Artículo 4</h5>
+              <p class="card-text">Resumen del artículo con al menos 800 palabras...</p>
+              <a href="/blog" class="btn btn-primary">Leer más</a>
+            </div>
+          </div>
+        </div>
+        <!-- Repite el bloque anterior para cada uno de los 20 artículos -->
+        <!-- ... -->
 </div>
-<hr>
-<h2>{{ site.message }}</h2>
-<p>
-  Para sacarle mayor provecho a este <i>starter project</i>, te sugiero revisar los siguientes enlaces:
-</p>
-<ul>
-  {% for link in site.linksDoc %}
-    <li>
-      <a href="{{ link.url }}" target="_blank">{{ link.text | safe }}</a>
-    </li>
-  {% endfor %}
-</ul>
+</div>

@@ -3,65 +3,108 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Página de inicio</title>
-  <meta name="description" content="Meta descripción de la página de inicio">
-  <link rel="icon" href="/starter-project-eleventy-github-pages/img/favicon.png">
-  <link rel="stylesheet" href="/starter-project-eleventy-github-pages/css/styles.css">
+  <title>Inicio</title>
+  <meta name="description" content="Pagina de Inicio WikiFútbol">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link rel="icon" href="/img/favicon.png">
+  <link rel="stylesheet" href="/css/styles.css">
 </head>
 <body>
   <header>
-    <h2>Mi sitio con <i>11ty</i></h2>
-    <nav class="menu">
-  <ul>
-    <li><a href="/starter-project-eleventy-github-pages/">Inicio</a></li>
-    <li><a href="/starter-project-eleventy-github-pages/acerca">Acerca</a></li>
-    <li><a href="/starter-project-eleventy-github-pages/contacto">Contacto</a></li>
-    <li><a href="/starter-project-eleventy-github-pages/blog">Blog</a></li>
-  </ul>
+    
+    <!-- Barra de navegación -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<a class="navbar-brand" href="/">WikiFútbol</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarNav">
+<ul class="navbar-nav">
+<li class="nav-item ">
+        <a class="nav-link" href="/">Inicio</a>
+</li>
+<li class="nav-item">
+        <a class="nav-link" href="/blog">Artículos</a>
+</li>
+<li class="nav-item">
+        <a class="nav-link" href="/acerca">Acerca de</a>
+</li>
+</ul>
+</div>
 </nav>
-    <img src="/starter-project-eleventy-github-pages/img/eleventy.avif" alt="Mascota 11ty">
+    
   </header>
   <main>
     
-<h1>Página de inicio</h1>
-<p>
-  Hola, este es un <i>starter project</i> minimalista para crear sitios estáticos con <b><i>11ty</i></b> y desplegarlos en <i>GitHub Pages</i>.
-</p>
-<div>
-  <img src="/starter-project-eleventy-github-pages/img/eleventy.svg" alt="Eleventy">
-  <h2>+</h2>
-  <img src="/starter-project-eleventy-github-pages/img/github.svg" alt="GitHub">
+
+<!-- Contenido principal -->
+<div class="container mt-4">
+<h1 class="display-4">Bienvenidos a la Wiki de Fútbol Soccer</h1>
+<p class="lead">Explora la historia, las reglas y las leyendas del fútbol soccer.</p>
+
+<!-- Sección de artículos -->
+<div class="row">
+        <!-- Artículo 1 -->
+        <div class="col-md-4">
+        <div class="card">
+                <img class="card-img-top" src="imagen_del_articulo1.jpg" alt="Imagen del Artículo 1">
+                <div class="card-body">
+                <h5 class="card-title">Título del Artículo 1</h5>
+                <p class="card-text">Resumen del artículo con al menos 800 palabras...</p>
+                <a href="/blog" class="btn btn-primary">Leer más</a>
+                </div>
+        </div>
+        </div>
+        <!-- Artículo 2 -->
+        <div class="col-md-4">
+          <div class="card">
+            <img class="card-img-top" src="imagen_del_articulo2.jpg" alt="Imagen del Artículo 2">
+            <div class="card-body">
+              <h5 class="card-title">Título del Artículo 2</h5>
+              <p class="card-text">Resumen del artículo con al menos 800 palabras...</p>
+              <a href="/blog" class="btn btn-primary">Leer más</a>
+            </div>
+          </div>
+        </div>
+        <!-- Artículo 3 -->
+        <div class="col-md-4">
+          <div class="card">
+            <img class="card-img-top" src="imagen_del_articulo3.jpg" alt="Imagen del Artículo 3">
+            <div class="card-body">
+              <h5 class="card-title">Título del Artículo 3</h5>
+              <p class="card-text">Resumen del artículo con al menos 800 palabras...</p>
+              <a href="/blog" class="btn btn-primary">Leer más</a>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Artículo 4 -->
+        <div class="col-md-4">
+          <div class="card">
+            <img class="card-img-top" src="imagen_del_articulo4.jpg" alt="Imagen del Artículo 4">
+            <div class="card-body">
+              <h5 class="card-title">Título del Artículo 4</h5>
+              <p class="card-text">Resumen del artículo con al menos 800 palabras...</p>
+              <a href="/blog" class="btn btn-primary">Leer más</a>
+            </div>
+          </div>
+        </div>
+        <!-- Repite el bloque anterior para cada uno de los 20 artículos -->
+        <!-- ... -->
 </div>
-<hr>
-<h2>Hola Mundo Eleventy 🦡🎈</h2>
-<p>
-  Para sacarle mayor provecho a este <i>starter project</i>, te sugiero revisar los siguientes enlaces:
-</p>
-<ul>
-  
-    <li>
-      <a href="https://www.11ty.dev/docs/" target="_blank">Documentación de <i>11ty</i></a>
-    </li>
-  
-    <li>
-      <a href="https://www.11ty.dev/mascot/" target="_blank">Mascotas de <i>11ty</i></a>
-    </li>
-  
-    <li>
-      <a href="https://mozilla.github.io/nunjucks/" target="_blank">Documentación de <i>NunJucks</i></a>
-    </li>
-  
-    <li>
-      <a href="https://www.youtube.com/watch?v=yCF9l4_E5rI" target="_blank">Curso de <i>11ty</i> de @jonmircha</a>
-    </li>
-  
-</ul>
+</div>
   </main>
   <hr>
-<footer>
-  🎈🦡 <small>Sitio hecho con <a href="https://www.11ty.dev/" target="_blank"><b><i>11ty</i></b></a></small> 🦡🎈
+<footer class="footer bg-dark text-white mt-4">
+<div class="container text-center py-3">
+        <p>WikiFútbol © 2024. Todos los derechos reservados.</p>
+</div>
 </footer>
 
-  <script src="/starter-project-eleventy-github-pages/js/main.js" type="module"></script>
+  <script src="/js/main.js" type="module"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
 </body>
 </html>
