@@ -11,7 +11,13 @@ date: "2024-07-17"
 <h2>Introduccion</h2>
 El mundo del fútbol está repleto de clubes que han dejado una huella indeleble en la historia del deporte. Estos clubes legendarios no solo han cosechado éxitos y trofeos, sino que también han contribuido a definir la cultura y la pasión que rodea al fútbol. En este artículo, exploraremos algunas de las historias más fascinantes de los clubes de fútbol más famosos y sus logros.
 
-<table style="border-collapse: collapse; border: 1px solid black;">
+ugadores de la historia del fútbol en sus filas.</p>
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://logodetimes.com/times/milan/logo-milan-4096.png" alt="Logo del AC Milan" style="max-width: 100%; height: auto;">
+        </td>
+    </tr>
+    <tr><table style="border-collapse: collapse; border: 1px solid black;">
     <tr>
         <td style="border: 1px solid black;">
             <h2>Real Madrid C.F.</h2>
@@ -123,13 +129,7 @@ El mundo del fútbol está repleto de clubes que han dejado una huella indeleble
     <tr>
         <td style="border: 1px solid black;">
             <h2>AC Milan</h2>
-            <p>Fundado en 1899, el AC Milan es uno de los clubes más exitosos y reconocidos del fútbol italiano. Con sede en Milán, Italia, el club ha ganado numerosos títulos tanto a nivel nacional como internacional. El AC Milan es conocido por su historia rica en éxitos y por haber tenido algunos de los mejores jugadores de la historia del fútbol en sus filas.</p>
-        </td>
-        <td style="border: 1px solid black;">
-            <img src="https://logodetimes.com/times/milan/logo-milan-4096.png" alt="Logo del AC Milan" style="max-width: 100%; height: auto;">
-        </td>
-    </tr>
-    <tr>
+            <p>Fundado en 1899, el AC Milan es uno de los clubes más exitosos y reconocidos del fútbol italiano. Con sede en Milán, Italia, el club ha ganado numerosos títulos tanto a nivel nacional como internacional. El AC Milan es conocido por su historia rica en éxitos y por haber tenido algunos de los mejores j
         <td colspan="2" style="border: 1px solid black;">
             <h3>Logros destacados</h3>
             <ul>

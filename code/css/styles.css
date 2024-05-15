@@ -2,6 +2,9 @@
 body {
   font-family: 'Arial', sans-serif;
   background-color: #f7f7f7;
+  background-image: url(https://i.pinimg.com/originals/9e/f2/8c/9ef28c9fb4282d055454bcd9cc6c2a35.jpg);
+  background-size: cover;
+  background-position: center;
   color: #333;
 }
 
