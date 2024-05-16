@@ -5,7 +5,7 @@ body {
   background-image: url(https://i.pinimg.com/originals/9e/f2/8c/9ef28c9fb4282d055454bcd9cc6c2a35.jpg);
   background-size: cover;
   background-position: center;
-  color: #333;
+  color: #ffffff;
 }
 
 /* Barra de navegación con colores de equipo */
@@ -24,8 +24,8 @@ body {
 
 /* Título principal con sombra para dar efecto de profundidad */
 h1, h2 {
-  color: #007BFF;
-  text-shadow: 2px 2px #FFD700;
+  color: #fcfcfc;
+  text-shadow: 2px 2px #000000;
 }
 
 /* Pie de página con colores a juego */
@@ -39,7 +39,7 @@ h1, h2 {
 /* Tarjetas de artículos con bordes redondeados y sombras */
 .card {
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(2, 2, 2, 0.1);
   margin-bottom: 2rem;
 }
 

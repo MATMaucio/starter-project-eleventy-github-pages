@@ -10,42 +10,34 @@ date: "2024-08-20"
 
 <h2>Introduccion</h2>
 El fútbol es un deporte que ha sido testigo de la grandeza de innumerables jugadores a lo largo de su historia. Algunos de estos atletas han trascendido más allá de sus logros en el campo, dejando una huella imborrable en el corazón de los aficionados y en el deporte en sí. A continuación, perfilamos a algunos de los jugadores históricos que han marcado el fútbol con su talento, carisma y legado.</p>
-        </td>
-        <td style="border: 1px solid black;">
-            <img src="https://logodetimes.com/times/milan/logo-milan-4096.png" alt="Logo del AC Milan" style="max-width: 100%; height: auto;">
-        </td>
-    </tr>
-    <tr><table style="border-collapse: collapse; border: 1px solid black;">
+
+<table style="border-collapse: collapse; border: 1px solid black;">
     <tr>
         <td style="border: 1px solid black;">
-            <h2>Real Madrid C.F.</h2>
-            <p>Fundado en 1902, el Real Madrid Club de Fútbol es uno de los clubes más laureados y reconocidos del mundo. Con sede en Madrid, España, el club ha ganado un número récord de títulos de la UEFA Champions League, lo que lo convierte en uno de los clubes más exitosos en la historia del fútbol europeo. Además de su éxito en Europa, el Real Madrid ha dominado la liga española, ganando numerosos títulos de La Liga.</p>
+            <h2>Pelé (Edson Arantes do Nascimento)</h2>
+            <p>Conocido como "O Rei" (The King), Pelé es considerado uno de los mejores futbolistas de todos los tiempos. Nacido en Brasil en 1940, su habilidad técnica, velocidad y capacidad goleadora lo convirtieron en una leyenda. Pelé ganó la Copa del Mundo con Brasil en tres ocasiones (1958, 1962, 1970), dejando una huella imborrable en la historia del fútbol. Su influencia en el deporte y su impacto en la cultura popular son indiscutibles.</p>
         </td>
         <td style="border: 1px solid black;">
-            <img src="https://wallpapercave.com/wp/wc1787509.jpg" alt="Logo del Real Madrid" style="max-width: 100%; height: auto;">
+            <img src="https://example.com/pele-image.png" alt="Imagen de Pelé" style="max-width: 100%; height: auto;">
         </td>
     </tr>
     <tr>
         <td colspan="2" style="border: 1px solid black;">
             <h3>Logros destacados</h3>
             <ul>
-                <li>Ganador de la UEFA Champions League en 13 ocasiones</li>
-                <li>Ganador de La Liga en 34 ocasiones</li>
-                <li>Ganador de la Copa del Rey en 19 ocasiones</li>
-                <li>Ganador del Mundial de Clubes de la FIFA en 4 ocasiones</li>
-                <li>Ganador de la Supercopa de Europa en 4 ocasiones</li>
+                <li>Ganador de la Copa del Mundo en 1958, 1962 y 1970</li>
+                <li>Ganador de la Copa Libertadores con el Santos en 2 ocasiones</li>
+                <li>Ganador de la Copa Intercontinental con el Santos en 2 ocasiones</li>
+                <li>Ganador de la Liga de Brasil con el Santos en 6 ocasiones</li>
             </ul>
         </td>
     </tr>
     <tr>
         <td colspan="2" style="border: 1px solid black;">
-            <h3>Jugadores destacados</h3>
+            <h3>Equipos destacados</h3>
             <ul>
-                <li>Cristiano Ronaldo</li>
-                <li>Alfredo Di Stéfano</li>
-                <li>Raúl González</li>
-                <li>Ferenc Puskás</li>
-                <li>Zinedine Zidane</li>
+                <li>Santos</li>
+                <li>New York Cosmos</li>
             </ul>
         </td>
     </tr>
@@ -54,34 +46,30 @@ El fútbol es un deporte que ha sido testigo de la grandeza de innumerables juga
 <table style="border-collapse: collapse; border: 1px solid black;">
     <tr>
         <td style="border: 1px solid black;">
-            <h2>Barcelona F.C.</h2>
-            <p>Fundado en 1899, el Barcelona Fútbol Club es uno de los clubes más emblemáticos y exitosos del mundo. Con sede en Barcelona, España, el club ha ganado numerosos títulos tanto a nivel nacional como internacional. El Barcelona es conocido por su estilo de juego ofensivo y por haber tenido algunos de los mejores jugadores de la historia del fútbol en sus filas.</p>
+            <h2>Johan Cruyff (Hendrik Johannes Cruijff)</h2>
+            <p>Conocido como "El Flaco" (The Skinny One), Johan Cruyff es considerado uno de los mejores futbolistas de todos los tiempos. Nacido en los Países Bajos en 1947, su elegancia, visión de juego y habilidad técnica lo convirtieron en una leyenda. Cruyff fue un pilar fundamental en el éxito del fútbol total y ganó numerosos títulos tanto a nivel de clubes como de selección nacional. Su influencia en el fútbol y su impacto en la filosofía del juego son indiscutibles.</p>
         </td>
         <td style="border: 1px solid black;">
-            <img src="https://logodownload.org/wp-content/uploads/2015/05/Barcelona-logo-escudo.png" alt="Logo del Barcelona" style="max-width: 100%; height: auto;">
+            <img src="https://example.com/cruyff-image.png" alt="Imagen de Johan Cruyff" style="max-width: 100%; height: auto;">
         </td>
     </tr>
     <tr>
         <td colspan="2" style="border: 1px solid black;">
             <h3>Logros destacados</h3>
             <ul>
-                <li>Ganador de la UEFA Champions League en 5 ocasiones</li>
-                <li>Ganador de La Liga en 26 ocasiones</li>
-                <li>Ganador de la Copa del Rey en 31 ocasiones</li>
-                <li>Ganador del Mundial de Clubes de la FIFA en 3 ocasiones</li>
-                <li>Ganador de la Supercopa de Europa en 5 ocasiones</li>
+                <li>Ganador de la Copa del Mundo en 1974 con los Países Bajos</li>
+                <li>Ganador de la Liga de Campeones de la UEFA con el Ajax en 3 ocasiones</li>
+                <li>Ganador de la Liga de Campeones de la UEFA con el Barcelona en 1 ocasión</li>
+                <li>Ganador de la Liga de España con el Barcelona en 10 ocasiones</li>
             </ul>
         </td>
     </tr>
     <tr>
         <td colspan="2" style="border: 1px solid black;">
-            <h3>Jugadores destacados</h3>
+            <h3>Equipos destacados</h3>
             <ul>
-                <li>Lionel Messi</li>
-                <li>Johan Cruyff</li>
-                <li>Andrés Iniesta</li>
-                <li>Xavi Hernández</li>
-                <li>Ronaldinho</li>
+                <li>Ajax</li>
+                <li>Barcelona</li>
             </ul>
         </td>
     </tr>
@@ -90,34 +78,95 @@ El fútbol es un deporte que ha sido testigo de la grandeza de innumerables juga
 <table style="border-collapse: collapse; border: 1px solid black;">
     <tr>
         <td style="border: 1px solid black;">
-            <h2>Manchester United</h2>
-            <p>Fundado en 1878, el Manchester United es uno de los clubes más icónicos y exitosos del fútbol inglés. Con sede en Manchester, Inglaterra, el club ha ganado numerosos títulos tanto a nivel nacional como internacional. El Manchester United es conocido por su rica historia, su estilo de juego ofensivo y por haber tenido algunos de los mejores jugadores del mundo en sus filas.</p>
+            <h2>Franz Beckenbauer</h2>
+            <p>Franz Beckenbauer, también conocido como "Der Kaiser" (El Emperador), es considerado uno de los mejores futbolistas de todos los tiempos. Nacido en Alemania en 1945, Beckenbauer fue un defensor elegante y versátil, conocido por su visión de juego y habilidad técnica. Ganó numerosos títulos tanto a nivel de clubes como de selección nacional, dejando una huella imborrable en la historia del fútbol. Su influencia en el juego y su legado son indiscutibles.</p>
         </td>
         <td style="border: 1px solid black;">
-            <img src="https://logodownload.org/wp-content/uploads/2016/10/manchester-united-logo-0.png" alt="Logo del Manchester United" style="max-width: 100%; height: auto;">
+            <img src="https://example.com/beckenbauer-image.png" alt="Imagen de Franz Beckenbauer" style="max-width: 100%; height: auto;">
         </td>
     </tr>
     <tr>
         <td colspan="2" style="border: 1px solid black;">
             <h3>Logros destacados</h3>
             <ul>
-                <li>Ganador de la UEFA Champions League en 3 ocasiones</li>
-                <li>Ganador de la Premier League en 20 ocasiones</li>
-                <li>Ganador de la FA Cup en 12 ocasiones</li>
-                <li>Ganador de la Copa de la Liga en 5 ocasiones</li>
-                <li>Ganador de la Copa Intercontinental en 1 ocasión</li>
+                <li>Ganador de la Copa del Mundo en 1974 y 1990 con Alemania</li>
+                <li>Ganador de la Copa de Europa de Clubes en 3 ocasiones con el Bayern Munich</li>
+                <li>Ganador de la Bundesliga en 5 ocasiones con el Bayern Munich</li>
+                <li>Ganador de la Copa del Mundo de Clubes de la FIFA en 2 ocasiones con el Bayern Munich</li>
             </ul>
         </td>
     </tr>
     <tr>
         <td colspan="2" style="border: 1px solid black;">
-            <h3>Jugadores destacados</h3>
+            <h3>Equipos destacados</h3>
             <ul>
-                <li>George Best</li>
-                <li>Eric Cantona</li>
-                <li>David Beckham</li>
-                <li>Cristiano Ronaldo</li>
-                <li>Wayne Rooney</li>
+                <li>Bayern Munich</li>
+                <li>Hamburgo</li>
+                <li>New York Cosmos</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<table style="border-collapse: collapse; border: 1px solid black;">
+    <tr>
+        <td style="border: 1px solid black;">
+            <h2>Zinedine Zidane</h2>
+            <p>Zinedine Zidane es considerado uno de los mejores futbolistas de todos los tiempos. Nacido en Francia en 1972, Zidane fue un mediocampista talentoso y elegante, conocido por su habilidad técnica y visión de juego. Ganó numerosos títulos tanto a nivel de clubes como de selección nacional, dejando una huella imborrable en la historia del fútbol. Su influencia en el juego y su legado son indiscutibles.</p>
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://example.com/zidane-image.png" alt="Imagen de Zinedine Zidane" style="max-width: 100%; height: auto;">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="border: 1px solid black;">
+            <h3>Logros destacados</h3>
+            <ul>
+                <li>Ganador de la Copa del Mundo en 1998 con Francia</li>
+                <li>Ganador de la Eurocopa en 2000 con Francia</li>
+                <li>Ganador de la Liga de Campeones de la UEFA con el Real Madrid en 3 ocasiones</li>
+                <li>Ganador de la Liga de España con el Real Madrid en 2 ocasiones</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="border: 1px solid black;">
+            <h3>Equipos destacados</h3>
+            <ul>
+                <li>Juventus</li>
+                <li>Real Madrid</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<table style="border-collapse: collapse; border: 1px solid black;">
+    <tr>
+        <td style="border: 1px solid black;">
+            <h2>Lionel Messi</h2>
+            <p>Lionel Messi es considerado uno de los mejores futbolistas de todos los tiempos. Nacido en Argentina en 1987, Messi ha dejado una huella imborrable en la historia del fútbol con su habilidad técnica, visión de juego y capacidad goleadora. A lo largo de su carrera, ha ganado numerosos títulos tanto a nivel de clubes como de selección nacional.</p>
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://example.com/messi-image.png" alt="Imagen de Lionel Messi" style="max-width: 100%; height: auto;">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="border: 1px solid black;">
+            <h3>Logros destacados</h3>
+            <ul>
+                <li>Ganador de la Copa del Mundo Sub-20 en 2005 y 2007 con Argentina</li>
+                <li>Ganador de la Copa América en 2021 con Argentina</li>
+                <li>Ganador de la Liga de Campeones de la UEFA con el Barcelona en 4 ocasiones</li>
+                <li>Ganador de la Liga de España con el Barcelona en 10 ocasiones</li>
+                <li>Ganador de la Bota de Oro en 6 ocasiones</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="border: 1px solid black;">
+            <h3>Equipos destacados</h3>
+            <ul>
+                <li>Barcelona</li>
+                <li>Paris Saint-Germain</li>
+                <li>Selección Argentina</li>
             </ul>
         </td>
     </tr>
@@ -126,104 +175,43 @@ El fútbol es un deporte que ha sido testigo de la grandeza de innumerables juga
 <table style="border-collapse: collapse; border: 1px solid black;">
     <tr>
         <td style="border: 1px solid black;">
-            <h2>AC Milan</h2>
-            <p>Fundado en 1899, el AC Milan es uno de los clubes más exitosos y reconocidos del fútbol italiano. Con sede en Milán, Italia, el club ha ganado numerosos títulos tanto a nivel nacional como internacional. El AC Milan es conocido por su historia rica en éxitos y por haber tenido algunos de los mejores j
-        <td colspan="2" style="border: 1px solid black;">
-            <h3>Logros destacados</h3>
-            <ul>
-                <li>Ganador de la UEFA Champions League en 7 ocasiones</li>
-                <li>Ganador de la Serie A en 18 ocasiones</li>
-                <li>Ganador de la Coppa Italia en 5 ocasiones</li>
-                <li>Ganador de la Supercoppa Italiana en 7 ocasiones</li>
-                <li>Ganador de la Copa Intercontinental en 3 ocasiones</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" style="border: 1px solid black;">
-            <h3>Jugadores destacados</h3>
-            <ul>
-                <li>Paolo Maldini</li>
-                <li>Franco Baresi</li>
-                <li>Alessandro Nesta</li>
-                <li>Andriy Shevchenko</li>
-                <li>Kaká</li>
-            </ul>
-        </td>
-    </tr>
-</table>
-<table style="border-collapse: collapse; border: 1px solid black;">
-    <tr>
-        <td style="border: 1px solid black;">
-            <h2>Liverpool F.C.</h2>
-            <p>Fundado en 1892, el Liverpool Fútbol Club es uno de los clubes más exitosos y reconocidos del fútbol inglés. Con sede en Liverpool, Inglaterra, el club ha ganado numerosos títulos tanto a nivel nacional como internacional. El Liverpool es conocido por su rica historia, su estilo de juego ofensivo y por haber tenido algunos de los mejores jugadores del mundo en sus filas.</p>
+            <h2>Cristiano Ronaldo</h2>
+            <p>Cristiano Ronaldo es considerado uno de los mejores futbolistas de todos los tiempos. Nacido en Portugal en 1985, Ronaldo ha dejado una huella imborrable en la historia del fútbol con su habilidad técnica, velocidad y capacidad goleadora. A lo largo de su carrera, ha ganado numerosos títulos tanto a nivel de clubes como de selección nacional.</p>
         </td>
         <td style="border: 1px solid black;">
-            <img src="https://th.bing.com/th/id/OIP.vnpIO8r86zc9A_cRsOTy3AHaJX?rs=1&pid=ImgDetMain" alt="Logo del Liverpool" style="max-width: 100%; height: auto;">
+            <img src="https://example.com/ronaldo-image.png" alt="Imagen de Cristiano Ronaldo" style="max-width: 100%; height: auto;">
         </td>
     </tr>
     <tr>
         <td colspan="2" style="border: 1px solid black;">
             <h3>Logros destacados</h3>
             <ul>
-                <li>Ganador de la UEFA Champions League en 6 ocasiones</li>
-                <li>Ganador de la Premier League en 19 ocasiones</li>
-                <li>Ganador de la FA Cup en 7 ocasiones</li>
-                <li>Ganador de la Copa de la Liga en 8 ocasiones</li>
-                <li>Ganador de la Copa Intercontinental en 3 ocasiones</li>
+                <li>Ganador de la Copa del Mundo de Clubes de la FIFA en 4 ocasiones</li>
+                <li>Ganador de la Liga de Campeones de la UEFA en 5 ocasiones</li>
+                <li>Ganador de la Liga de España con el Real Madrid en 2 ocasiones</li>
+                <li>Ganador de la Serie A con la Juventus en 2 ocasiones</li>
+                <li>Ganador de la Eurocopa con Portugal en 2016</li>
             </ul>
         </td>
     </tr>
     <tr>
         <td colspan="2" style="border: 1px solid black;">
-            <h3>Jugadores destacados</h3>
+            <h3>Equipos destacados</h3>
             <ul>
-                <li>Steven Gerrard</li>
-                <li>Kenny Dalglish</li>
-                <li>Ian Rush</li>
-                <li>John Barnes</li>
-                <li>Virgil van Dijk</li>
+                <li>Sporting CP</li>
+                <li>Manchester United</li>
+                <li>Real Madrid</li>
+                <li>Juventus</li>
+                <li>Selección Portugal</li>
             </ul>
         </td>
     </tr>
 </table>
-<table style="border-collapse: collapse; border: 1px solid black;">
-    <tr>
-        <td style="border: 1px solid black;">
-            <h2>Bayern Munich</h2>
-            <p>Fundado en 1900, el Bayern Munich es uno de los clubes más exitosos y reconocidos del fútbol alemán. Con sede en Múnich, Alemania, el club ha ganado numerosos títulos tanto a nivel nacional como internacional. El Bayern Munich es conocido por su estilo de juego ofensivo y por haber tenido algunos de los mejores jugadores del mundo en sus filas.</p>
-        </td>
-        <td style="border: 1px solid black;">
-            <img src="https://e7.pngegg.com/pngimages/442/47/png-clipart-allianz-arena-fc-bayern-munich-bundesliga-tsv-1860-munich-der-klassiker-bundesliga-emblem-trademark.png" alt="Logo del Bayern Munich" style="max-width: 100%; height: auto;">
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" style="border: 1px solid black;">
-            <h3>Logros destacados</h3>
-            <ul>
-                <li>Ganador de la UEFA Champions League en 6 ocasiones</li>
-                <li>Ganador de la Bundesliga en 31 ocasiones</li>
-                <li>Ganador de la Copa de Alemania en 20 ocasiones</li>
-                <li>Ganador de la Supercopa de Alemania en 8 ocasiones</li>
-                <li>Ganador de la Copa Intercontinental en 2 ocasiones</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" style="border: 1px solid black;">
-            <h3>Jugadores destacados</h3>
-            <ul>
-                <li>Franz Beckenbauer</li>
-                <li>Gerd Müller</li>
-                <li>Oliver Kahn</li>
-                <li>Arjen Robben</li>
-                <li>Robert Lewandowski</li>
-            </ul>
-        </td>
-    </tr>
-</table>
+
 <section>
     <h2>Conclusión</h2>
     <p>Los clubes legendarios del fútbol son más que simples equipos; son instituciones que representan ciudades, culturas y tradiciones. Sus logros en el campo son el resultado de años de dedicación, planificación y una inquebrantable pasión por el juego. Estos clubes han inspirado a generaciones de aficionados y jugadores, y sus historias continúan siendo escritas con cada temporada que pasa. Mientras el fútbol siga siendo el deporte rey, los clubes legendarios seguirán siendo el corazón y el alma de este juego hermoso.</p>
 </section>
 </article>
+
+[def]: ttps://logodownload.org/wp-content/uploads/2015/05/Barcelona-logo-escudo.pn

@@ -1,0 +1,13 @@
+[
+    {
+    "title": "Título del Artículo 1",
+    "content": "Contenido del Artículo 1",
+    "url": "/libro-1"
+    },
+    {
+    "title": "Título del Artículo 2",
+    "content": "Contenido del Artículo 2",
+    "url": "/libro-2"
+    }
+    
+]
