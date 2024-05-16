@@ -1,5 +1,5 @@
 ---
-layout: layout-page.njk
+layout: layoutarticulos.njk
 title: Reseña del libro 1
 description: Descripción de la reseña del libro 1
 tags: ["blog", "libros"]
