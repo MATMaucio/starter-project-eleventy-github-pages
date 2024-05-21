@@ -52,13 +52,13 @@ h1, h2 {
 }
 
 .btn-primary {
-  background-color: #FFD700;
-  border-color: #FFD700;
+  background-color: #03b435;
+  border-color: #00961b;
 }
 
 .btn-primary:hover {
-  background-color: #0056b3;
-  border-color: #0056b3;
+  background-color: #025b1d;
+  border-color: #125400;
 }
 
 /* Estilo para los banners */
