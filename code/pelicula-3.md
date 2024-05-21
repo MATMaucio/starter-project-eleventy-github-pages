@@ -18,7 +18,7 @@ El fútbol es un deporte que ha sido testigo de la grandeza de innumerables juga
             <p>Conocido como "O Rei" (The King), Pelé es considerado uno de los mejores futbolistas de todos los tiempos. Nacido en Brasil en 1940, su habilidad técnica, velocidad y capacidad goleadora lo convirtieron en una leyenda. Pelé ganó la Copa del Mundo con Brasil en tres ocasiones (1958, 1962, 1970), dejando una huella imborrable en la historia del fútbol. Su influencia en el deporte y su impacto en la cultura popular son indiscutibles.</p>
         </td>
         <td style="border: 1px solid black;">
-            <img src="https://example.com/pele-image.png" alt="Imagen de Pelé" style="max-width: 100%; height: auto;">
+            <img src="https://th.bing.com/th/id/OIP.mD4LTEpUQTBqrWW7bjGAHQHaFj?rs=1&pid=ImgDetMain" alt="Imagen de Pelé" style="max-width: 100%; height: auto;">
         </td>
     </tr>
     <tr>
@@ -50,7 +50,7 @@ El fútbol es un deporte que ha sido testigo de la grandeza de innumerables juga
             <p>Conocido como "El Flaco" (The Skinny One), Johan Cruyff es considerado uno de los mejores futbolistas de todos los tiempos. Nacido en los Países Bajos en 1947, su elegancia, visión de juego y habilidad técnica lo convirtieron en una leyenda. Cruyff fue un pilar fundamental en el éxito del fútbol total y ganó numerosos títulos tanto a nivel de clubes como de selección nacional. Su influencia en el fútbol y su impacto en la filosofía del juego son indiscutibles.</p>
         </td>
         <td style="border: 1px solid black;">
-            <img src="https://example.com/cruyff-image.png" alt="Imagen de Johan Cruyff" style="max-width: 100%; height: auto;">
+            <img src="https://th.bing.com/th/id/OIP.XwNVU-clBOhbxMtvYcLSWwHaJv?rs=1&pid=ImgDetMain" alt="Imagen de Johan Cruyff" style="max-width: 100%; height: auto;">
         </td>
     </tr>
     <tr>
@@ -82,7 +82,7 @@ El fútbol es un deporte que ha sido testigo de la grandeza de innumerables juga
             <p>Franz Beckenbauer, también conocido como "Der Kaiser" (El Emperador), es considerado uno de los mejores futbolistas de todos los tiempos. Nacido en Alemania en 1945, Beckenbauer fue un defensor elegante y versátil, conocido por su visión de juego y habilidad técnica. Ganó numerosos títulos tanto a nivel de clubes como de selección nacional, dejando una huella imborrable en la historia del fútbol. Su influencia en el juego y su legado son indiscutibles.</p>
         </td>
         <td style="border: 1px solid black;">
-            <img src="https://example.com/beckenbauer-image.png" alt="Imagen de Franz Beckenbauer" style="max-width: 100%; height: auto;">
+            <img src="https://wallpapercave.com/wp/wp4518929.jpg" alt="Imagen de Franz Beckenbauer" style="max-width: 100%; height: auto;">
         </td>
     </tr>
     <tr>
@@ -114,7 +114,7 @@ El fútbol es un deporte que ha sido testigo de la grandeza de innumerables juga
             <p>Zinedine Zidane es considerado uno de los mejores futbolistas de todos los tiempos. Nacido en Francia en 1972, Zidane fue un mediocampista talentoso y elegante, conocido por su habilidad técnica y visión de juego. Ganó numerosos títulos tanto a nivel de clubes como de selección nacional, dejando una huella imborrable en la historia del fútbol. Su influencia en el juego y su legado son indiscutibles.</p>
         </td>
         <td style="border: 1px solid black;">
-            <img src="https://example.com/zidane-image.png" alt="Imagen de Zinedine Zidane" style="max-width: 100%; height: auto;">
+            <img src="https://th.bing.com/th/id/OIP.k8sJ48uX6b59NbQZvHr-kAHaK7?rs=1&pid=ImgDetMain" alt="Imagen de Zinedine Zidane" style="max-width: 100%; height: auto;">
         </td>
     </tr>
     <tr>
@@ -145,7 +145,7 @@ El fútbol es un deporte que ha sido testigo de la grandeza de innumerables juga
             <p>Lionel Messi es considerado uno de los mejores futbolistas de todos los tiempos. Nacido en Argentina en 1987, Messi ha dejado una huella imborrable en la historia del fútbol con su habilidad técnica, visión de juego y capacidad goleadora. A lo largo de su carrera, ha ganado numerosos títulos tanto a nivel de clubes como de selección nacional.</p>
         </td>
         <td style="border: 1px solid black;">
-            <img src="https://example.com/messi-image.png" alt="Imagen de Lionel Messi" style="max-width: 100%; height: auto;">
+            <img src="https://th.bing.com/th/id/R.bc2dce9ca30582642e31285a8c22b783?rik=F54orTpF5Oxd9A&pid=ImgRaw&r=0" alt="Imagen de Lionel Messi" style="max-width: 75%; height: auto;">
         </td>
     </tr>
     <tr>
@@ -179,7 +179,7 @@ El fútbol es un deporte que ha sido testigo de la grandeza de innumerables juga
             <p>Cristiano Ronaldo es considerado uno de los mejores futbolistas de todos los tiempos. Nacido en Portugal en 1985, Ronaldo ha dejado una huella imborrable en la historia del fútbol con su habilidad técnica, velocidad y capacidad goleadora. A lo largo de su carrera, ha ganado numerosos títulos tanto a nivel de clubes como de selección nacional.</p>
         </td>
         <td style="border: 1px solid black;">
-            <img src="https://example.com/ronaldo-image.png" alt="Imagen de Cristiano Ronaldo" style="max-width: 100%; height: auto;">
+            <img src="https://th.bing.com/th/id/OIP.BHSUv0ZRTZiAPJBa7cwtaAHaE7?rs=1&pid=ImgDetMain" alt="Imagen de Cristiano Ronaldo" style="max-width: 100%; height: auto;">
         </td>
     </tr>
     <tr>
