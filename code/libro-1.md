@@ -1,13 +1,14 @@
 ---
-layout: layoutarticulos.njk
+layout: layout-page.njk
 title: Reseña del libro 1
 description: Descripción de la reseña del libro 1
 tags: ["blog", "libros"]
 date: "2024-02-22"
+background: url('https://th.bing.com/th/id/OIP.G9dOFC1K6xVZMKd63Ui5mwHaEK?rs=1&pid=ImgDetMain'); # Replace with the URL of your desired image
 ---
 
 <!-- Contenido principal del artículo -->
-<div class="container mt-4">
+<div class="container mt-4" style="background: url('https://th.bing.com/th/id/OIP.G9dOFC1K6xVZMKd63Ui5mwHaEK?rs=1&pid=ImgDetMain'); background-size: cover; background-repeat: no-repeat; background-position: center;">
     <h1 class="display-4">Historia del Fútbol: Un Viaje a Través del Tiempo</h1>
     <p class="lead">El fútbol, conocido como el “juego hermoso”, es más que un deporte; es una pasión que une a naciones, culturas y personas de todas las edades. Su historia es tan rica y diversa como los millones de aficionados que lo siguen en todo el mundo. Este viaje a través del tiempo nos lleva desde los juegos de pelota de las antiguas civilizaciones hasta el fenómeno global que es hoy.</p>
     
@@ -49,4 +50,16 @@ date: "2024-02-22"
                 El fútbol seguirá evolucionando, y con la tecnología, como el VAR y los sistemas de seguimiento de jugadores, el juego se está volviendo más justo y emocionante. La pasión por el fútbol no muestra signos de disminuir, y su historia continúa escribiéndose con cada partido, cada gol y cada fanático que comparte el amor por este juego hermoso.</p>
         <!-- Continúa con las demás secciones del artículo -->
     </article>
+</div>
+
+<!-- Banner -->
+<div class="list-group-item list-group-item-action text-center">
+    <div class="d-flex align-items-center justify-content-center">
+        <img src="https://th.bing.com/th/id/R.2d75f2a9352a4fb78cb9aa29e8aeb3e7?rik=UOr8FscRVB40DA&pid=ImgRaw&r=0" alt="Imagen de banner" class="mr-3" style="max-width: 20%; height: auto; float: left;">
+        <div>
+            <h5 class="mb-1">¡Explora más artículos!</h5>
+            <p class="mb-1">No te pierdas nuestros otros artículos interesantes sobre el mundo del fútbol.</p>
+            <a href="/blog" class="btn btn-primary">Ver más</a>
+        </div>
+    </div>
 </div>

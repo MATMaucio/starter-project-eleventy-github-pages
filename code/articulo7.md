@@ -65,3 +65,15 @@ El fútbol es un deporte que combina habilidad física, técnica y estrategia. A
 </section>
 </article>
 
+<!-- Banner -->
+<div class="list-group-item list-group-item-action text-center">
+    <div class="d-flex align-items-center justify-content-center">
+        <img src="https://th.bing.com/th/id/R.2d75f2a9352a4fb78cb9aa29e8aeb3e7?rik=UOr8FscRVB40DA&pid=ImgRaw&r=0" alt="Imagen de banner" class="mr-3" style="max-width: 20%; height: auto; float: left;">
+        <div>
+            <h5 class="mb-1">¡Explora más artículos!</h5>
+            <p class="mb-1">No te pierdas nuestros otros artículos interesantes sobre el mundo del fútbol.</p>
+            <a href="/blog" class="btn btn-primary">Ver más</a>
+        </div>
+    </div>
+</div>
+

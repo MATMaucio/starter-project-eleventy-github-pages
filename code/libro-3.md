@@ -70,3 +70,14 @@ El fútbol, conocido como el “juego hermoso”, es el deporte más popular del
 </section>
 </article>
 
+<!-- Banner -->
+<div class="list-group-item list-group-item-action text-center">
+    <div class="d-flex align-items-center justify-content-center">
+        <img src="https://th.bing.com/th/id/OIP.kwKWBmI0yF-awHUEky87BgHaHa?rs=1&pid=ImgDetMain" alt="Imagen de banner" class="mr-3" style="max-width: 20%; height: auto; float: left;">
+        <div>
+            <h5 class="mb-1">¡Explora más artículos!</h5>
+            <p class="mb-1">No te pierdas nuestros otros artículos interesantes sobre el mundo del fútbol.</p>
+            <a href="/blog" class="btn btn-primary">Ver más</a>
+        </div>
+    </div>
+</div>

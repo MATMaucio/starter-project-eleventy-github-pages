@@ -1,21 +1,17 @@
-// search.js
-const lunr = require('lunr');
-const searchIndex = require('./search-index.json');
+document.getElementById('searchInput').addEventListener('keyup', function(e) {
+    var searchTerm = e.target.value.toLowerCase();
+    var allArticles = [...document.querySelectorAll('.article')]; // Asume que tus artículos tienen la clase 'article'
+    var searchResults = allArticles.filter(article => {
+    return article.textContent.toLowerCase().includes(searchTerm);
+    });
 
-let idx = lunr(function () {
-this.ref('url');
-this.field('title');
-this.field('content');
-
-searchIndex.forEach(function (doc) {
-    this.add(doc);
-}, this);
+    displayResults(searchResults); // Función para mostrar los resultados
 });
 
-function search(query) {
-return idx.search(query).map(result => {
-    return searchIndex.find(doc => doc.url === result.ref);
-});
+function displayResults(results) {
+    var resultsContainer = document.getElementById('searchResults');
+    resultsContainer.innerHTML = ''; // Limpia los resultados anteriores
+    results.forEach(result => {
+      resultsContainer.appendChild(result); // Agrega los resultados filtrados al contenedor
+    });
 }
-
-window.search = search;

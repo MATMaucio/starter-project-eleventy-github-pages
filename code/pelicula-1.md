@@ -50,3 +50,14 @@ Estos torneos también tienen un impacto económico significativo, generando ing
 </section>
 </article>
 
+<!-- Banner -->
+<div class="list-group-item list-group-item-action text-center">
+  <div class="d-flex align-items-center justify-content-center">
+    <div>
+      <h5 class="mb-1">¡Explora más artículos!</h5>
+      <p class="mb-1">No te pierdas nuestros otros artículos interesantes sobre el mundo del fútbol.</p>
+      <a href="/blog" class="btn btn-primary">Ver más</a>
+    </div>
+    <img src="https://th.bing.com/th/id/R.c38ca096cba6ee5a06d9d27b5cead0ac?rik=Wz%2f2jVQ8uSWkzA&riu=http%3a%2f%2fwww.infantoys.com%2fmascotas%2fmascota-de-equipos-futbol.jpg&ehk=MJMtiNbju2F2154afO3wMC%2fuYCF6E2d8e4sQsn8qy3c%3d&risl=&pid=ImgRaw&r=0" alt="Imagen de banner" class="ml-3" style="max-width: 20%; height: auto; float: right;">
+  </div>
+</div>

@@ -14,7 +14,6 @@ El mundo del fútbol está repleto de clubes que han dejado una huella indeleble
 ugadores de la historia del fútbol en sus filas.</p>
         </td>
         <td style="border: 1px solid black;">
-            <img src="https://logodetimes.com/times/milan/logo-milan-4096.png" alt="Logo del AC Milan" style="max-width: 100%; height: auto;">
         </td>
     </tr>
     <tr><table style="border-collapse: collapse; border: 1px solid black;">
@@ -129,7 +128,13 @@ ugadores de la historia del fútbol en sus filas.</p>
     <tr>
         <td style="border: 1px solid black;">
             <h2>AC Milan</h2>
-            <p>Fundado en 1899, el AC Milan es uno de los clubes más exitosos y reconocidos del fútbol italiano. Con sede en Milán, Italia, el club ha ganado numerosos títulos tanto a nivel nacional como internacional. El AC Milan es conocido por su historia rica en éxitos y por haber tenido algunos de los mejores j
+            <p>Fundado en 1899, el AC Milan es uno de los clubes más exitosos y reconocidos del fútbol italiano. Con sede en Milán, Italia, el club ha ganado numerosos títulos tanto a nivel nacional como internacional. El AC Milan es conocido por su historia rica en éxitos y por haber tenido algunos de los mejores jugadores en sus filas.</p>
+        </td>
+        <td style="border: 1px solid black;">
+            <img src="https://logodetimes.com/times/milan/logo-milan-4096.png" alt="Logo del AC Milan" style="max-width: 50%; height: auto;">
+        </td>
+    </tr>
+    <tr>
         <td colspan="2" style="border: 1px solid black;">
             <h3>Logros destacados</h3>
             <ul>
@@ -229,3 +234,15 @@ ugadores de la historia del fútbol en sus filas.</p>
     <p>Los clubes legendarios del fútbol son más que simples equipos; son instituciones que representan ciudades, culturas y tradiciones. Sus logros en el campo son el resultado de años de dedicación, planificación y una inquebrantable pasión por el juego. Estos clubes han inspirado a generaciones de aficionados y jugadores, y sus historias continúan siendo escritas con cada temporada que pasa. Mientras el fútbol siga siendo el deporte rey, los clubes legendarios seguirán siendo el corazón y el alma de este juego hermoso.</p>
 </section>
 </article>
+
+<!-- Banner -->
+<div class="list-group-item list-group-item-action text-center">
+    <div class="d-flex align-items-center justify-content-center">
+        <div>
+            <h5 class="mb-1">¡Explora más artículos!</h5>
+            <p class="mb-1">No te pierdas nuestros otros artículos interesantes sobre el mundo del fútbol.</p>
+            <a href="/blog" class="btn btn-primary">Ver más</a>
+        </div>
+        <img src="https://th.bing.com/th/id/R.589a4fa28fc1f3ee1589349babf03c4f?rik=T8AmtJnOYtp8AQ&pid=ImgRaw&r=0" alt="Imagen de banner" class="ml-3" style="max-width: 20%; height: auto; float: right;">
+    </div>
+</div>
