@@ -1,17 +1,17 @@
-document.getElementById('searchInput').addEventListener('keyup', function(e) {
-    var searchTerm = e.target.value.toLowerCase();
-    var allArticles = [...document.querySelectorAll('.article')]; // Asume que tus artículos tienen la clase 'article'
-    var searchResults = allArticles.filter(article => {
-    return article.textContent.toLowerCase().includes(searchTerm);
-    });
+document.addEventListener("keyup", e=>{
 
-    displayResults(searchResults); // Función para mostrar los resultados
-});
+  if (e.target.matches("#buscador")){
 
-function displayResults(results) {
-    var resultsContainer = document.getElementById('searchResults');
-    resultsContainer.innerHTML = ''; // Limpia los resultados anteriores
-    results.forEach(result => {
-      resultsContainer.appendChild(result); // Agrega los resultados filtrados al contenedor
-    });
-}
+      if (e.key ==="Escape")e.target.value = ""
+
+      document.querySelectorAll(".articulo").forEach(articulo =>{
+
+          articulo.textContent.toLowerCase().includes(e.target.value.toLowerCase())
+            ?articulo.classList.remove("filtro")
+            :articulo.classList.add("filtro")
+      })
+
+  }
+
+
+})

@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Página de Blog</title>
-  <meta name="description" content="">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-  <link rel="icon" href="/starter-project-eleventy-github-pages/img/favicon.png">
-  <link rel="stylesheet" href="/starter-project-eleventy-github-pages/css/styles.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Página de Blog</title>
+<meta name="description" content="">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link rel="icon" href="/starter-project-eleventy-github-pages/img/favicon.png">
+<link rel="stylesheet" href="/starter-project-eleventy-github-pages/css/styles.css">
 </head>
 <body>
-  <header>
+<header>
     
     <!-- Barra de navegación -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -30,17 +30,16 @@
                                 <a class="nav-link" href="/starter-project-eleventy-github-pages/acerca">Acerca de</a>
                         </li>
                 </ul>
-                <form class="form-inline my-2 my-lg-0">
-                                <input class="form-control mr-sm-2" type="search" placeholder="Buscar..." aria-label="Search">
-                                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
-                </form>
-                <div id="searchResults"></div>
+
         </div>
 </nav>
 
     
   </header>
-  <main>
+<form class="form-inline my-2 my-lg-0">
+                                <input type="text" name="buscador" id="buscador" placeholder="Buscar...">
+</form>
+<main>
     
 <!-- Contenido principal -->
 <div class="container mt-4">
@@ -48,196 +47,217 @@
     <p class="lead">Descubre análisis profundos, historias y estadísticas del mundo del fútbol.</p>
     
     <!-- Lista de artículos -->
-    <div class="list-group">
-        <!-- Artículo 1 -->
-        <a href="/starter-project-eleventy-github-pages/libro-1" class="list-group-item list-group-item-action">
+    <ul id="listaArticulos">
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/libro-1" class="list-group-item list-group-item-action">
             <h5 class="mb-1">Historia del Fútbol: Un Viaje a Través del Tiempo</h5>
             <p class="mb-1">Descubre la fascinante historia del fútbol y cómo ha evolucionado a lo largo del tiempo.</p>
             <button type="button" class="btn btn-link">
             <img src="https://th.bing.com/th/id/OIP.3iOCwTAh7RCWnE8DVB0QKwHaD4?rs=1&pid=ImgDetMain" alt="Imagen del artículo" style="max-width: 100%;">
             </button>
-        </a>
-        <!-- Artículo 2 -->
-        <a href="/starter-project-eleventy-github-pages/libro-2" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/libro-2" class="list-group-item list-group-item-action">
             <h5 class="mb-1">Reglas del Juego: La Estructura del Fútbol Moderno</h5>
             <p class="mb-1">Una explicación detallada de las reglas oficiales que rigen el fútbol actual.</p>
             <button type="button" class="btn btn-link">
             <img src="https://th.bing.com/th/id/OIP.ctSACd0Crj23V3iyvFuCuQHaFj?rs=1&pid=ImgDetMain" alt="Imagen del artículo" style="max-width: 100%;">
             </button>
-        </a>
-        <!-- Artículo 3 -->
-        <a href="/starter-project-eleventy-github-pages/libro-3" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/libro-3" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Equipamiento basico para Football</h5>
           <p class="mb-1">Descubre las tácticas y estrategias utilizadas por los equipos de fútbol para obtener la victoria.</p>
           <button type="button" class="btn btn-link">
           <img src="https://image.freepik.com/vetores-gratis/colecao-de-elementos-de-futebol-com-equipamento_23-2147786147.jpg" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-        <!-- Artículo 4 -->
-        <a href="/starter-project-eleventy-github-pages/pelicula-1" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/pelicula-1" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Competiciones: Los Torneos más Importantes del Fútbol</h5>
           <p class="mb-1">Explora las competiciones más destacadas del fútbol a nivel mundial y regional.</p>
           <button type="button" class="btn btn-link">
           <img src="https://th.bing.com/th/id/OIP.hMLptpgflpnFoPHYvciZVwHaEW?rs=1&pid=ImgDetMain" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-        <!-- Artículo 5 -->
-        <a href="/starter-project-eleventy-github-pages/pelicula-2" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/pelicula-2" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Equipos Historicos</h5>
           <p class="mb-1">Descubre acerca de los equipos historicos del football.</p>
           <button type="button" class="btn btn-link">
           <img src="https://th.bing.com/th/id/OIP.7uHbsYvXt8tGpifX-4IZ7QAAAA?rs=1&pid=ImgDetMain" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-
-        <!-- Artículo 6 -->
-        <a href="/starter-project-eleventy-github-pages/pelicula-3" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/pelicula-3" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Jugadores Legendarios</h5>
           <p class="mb-1">Conoce a los jugadores más legendarios de la historia del fútbol y sus logros destacados.</p>
           <button type="button" class="btn btn-link">
           <img src="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/04/26/15562709673021.jpg" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-        <!-- Artículo 7 -->
-        <a href="/starter-project-eleventy-github-pages/articulo7" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/articulo7" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Tácticas y Estrategias: Claves para el Éxito en el Fútbol</h5>
           <p class="mb-1">Descubre las tácticas y estrategias utilizadas por los equipos de fútbol para obtener la victoria.</p>
           <button type="button" class="btn btn-link">
           <img src="https://th.bing.com/th/id/OIP.rR89kDEMzoSexprrhSN8-QHaE8?rs=1&pid=ImgDetMain" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-
-        <!-- Artículo 8 -->
-        <a href="/starter-project-eleventy-github-pages/articulo8" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/articulo8" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Entrenamiento y Preparación Física</h5>
           <p class="mb-1">Consejos y rutinas de entrenamiento para futbolistas.</p>
           <button type="button" class="btn btn-link">
           <img src="https://www.entrenamiento.com/wp-content/uploads/2021/07/shutterstock_635225048-scaled.jpg" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-
-        <!-- Artículo 9 -->
-        <a href="/starter-project-eleventy-github-pages/articulo9" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/articulo9" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Nutrición para Futbolistas</h5>
           <p class="mb-1">Ofrece una guía sobre la alimentación y nutrición óptima para mantener el rendimiento en el campo.</p>
           <button type="button" class="btn btn-link">
           <img src="https://th.bing.com/th/id/OIP.OE1IKdLHpXoqLX6Cyarw7AHaE7?rs=1&pid=ImgDetMain" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-
-        <!-- Artículo 10 -->
-        <a href="/starter-project-eleventy-github-pages/articulo10" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/articulo10" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Psicología en el Fútbol</h5>
           <p class="mb-1">Examina cómo la psicología afecta el rendimiento de los jugadores y la dinámica del equipo.</p>
           <button type="button" class="btn btn-link">
           <img src="https://th.bing.com/th/id/OIP.ci6J0e0FhA5zByx1OYmGtgHaDt?rs=1&pid=ImgDetMain" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-
-        <!-- Artículo 11 -->
-        <a href="/starter-project-eleventy-github-pages/articulo11" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/articulo11" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Tecnología en el Fútbol</h5>
           <p class="mb-1">Discute cómo los avances tecnológicos están transformando la manera de jugar y ver el fútbol.</p>
           <button type="button" class="btn btn-link">
           <img src="https://th.bing.com/th/id/OIP.68ywuolHb8kehXUsyQASpwHaEK?rs=1&pid=ImgDetMain" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-
-        <!-- Artículo 12 -->
-        <a href="/starter-project-eleventy-github-pages/articulo12" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/articulo12" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Fútbol Femenino</h5>
           <p class="mb-1"> El crecimiento y desarrollo del fútbol femenino a nivel mundial</p>
           <button type="button" class="btn btn-link">
           <img src="https://th.bing.com/th/id/OIP.pe9Dmti0p7J8wvcpbyUyqQHaLX?rs=1&pid=ImgDetMain" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-
-        <!-- Artículo 13 -->
-        <a href="/starter-project-eleventy-github-pages/articulo13" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/articulo13" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Lesiones Comunes y Prevención</h5>
           <p class="mb-1">Información sobre las lesiones más comunes en el fútbol y cómo prevenirlas.</p>
           <button type="button" class="btn btn-link">
           <img src="https://th.bing.com/th/id/OIP.UjSLH2Gsqkvh1iMG0X8UMwHaE8?rs=1&pid=ImgDetMain" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-
-        <!-- Artículo 14 -->
-        <a href="/starter-project-eleventy-github-pages/articulo14" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/articulo14" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Cultura del Fútbol</h5>
           <p class="mb-1">Explora la influencia del fútbol en la cultura popular y su papel en la sociedad.</p>
           <button type="button" class="btn btn-link">
           <img src="https://www.lifeder.com/wp-content/uploads/2020/11/mundo-cultura-sociedad-min-1024x1024.jpg" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-
-        <!-- Artículo 15 -->
-        <a href="/starter-project-eleventy-github-pages/articulo15" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/articulo15" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Economía del Fútbol</h5>
           <p class="mb-1">Analiza el impacto financiero del fútbol y su importancia económica a nivel mundial.</p>
           <button type="button" class="btn btn-link">
           <img src="https://th.bing.com/th/id/OIP.8-orvgz-r0WEPYlI6r3jkQHaD4?rs=1&pid=ImgDetMain" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-
-        <!-- Artículo 16 -->
-        <a href="/starter-project-eleventy-github-pages/articulo16" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/articulo16" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Fútbol y Educación</h5>
           <p class="mb-1">Subraya la relevancia del fútbol en la formación educativa y el desarrollo de los jóvenes.</p>
           <button type="button" class="btn btn-link">
           <img src="https://th.bing.com/th/id/OIP.RxrxL3tLWuB2GeeoN-3RqAHaE7?w=285&h=190&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-
-        <!-- Artículo 17 -->
-        <a href="/starter-project-eleventy-github-pages/articulo17" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo">  <a href="/starter-project-eleventy-github-pages/articulo17" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Fútbol y Solidaridad</h5>
           <p class="mb-1">Presenta iniciativas que utilizan el fútbol como herramienta para la solidaridad y el cambio social.</p>
           <button type="button" class="btn btn-link">
           <img src="https://th.bing.com/th/id/R.485c34642ab185092480da7f144dd411?rik=mRM1dIJmoqWCLA&pid=ImgRaw&r=0" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-
-        <!-- Artículo 18 -->
-        <a href="/starter-project-eleventy-github-pages/articulo18" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/articulo18" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Gestión de Clubes de Fútbol</h5>
           <p class="mb-1">Explica lo que se requiere para administrar y dirigir un club de fútbol con éxito.</p>
           <button type="button" class="btn btn-link">
           <img src="https://cdn.ligadegamers.com/imagenes/soccer-manager-2021-0-cke.jpg" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-
-        <!-- Artículo 19 -->
-        <a href="/starter-project-eleventy-github-pages/articulo19" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/articulo19" class="list-group-item list-group-item-action">
           <h5 class="mb-1">Árbitros y Oficiales</h5>
           <p class="mb-1">Describe el rol crucial que juegan los árbitros y oficiales en la regulación del fútbol.</p>
           <button type="button" class="btn btn-link">
           <img src="https://th.bing.com/th/id/R.e5a8ee39dd47833250965c31fdafe0b6?rik=3Og9V77tN6Qhfw&pid=ImgRaw&r=0" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
-
-        <!-- Artículo 20 -->
-        <a href="/starter-project-eleventy-github-pages/articulo20" class="list-group-item list-group-item-action">
+        </a></li>
+            <li class="articulo"><a href="/starter-project-eleventy-github-pages/articulo20" class="list-group-item list-group-item-action">
           <h5 class="mb-1">El Futuro del Fútbol</h5>
           <p class="mb-1">Proyecta las tendencias futuras y lo que podríamos esperar del desarrollo del fútbol.</p>
           <button type="button" class="btn btn-link">
           <img src="https://th.bing.com/th/id/OIP.ApUPmMDaXFoItDiXtooFqwHaEK?rs=1&pid=ImgDetMain" alt="Imagen del artículo" style="max-width: 100%;">
           </button>
-        </a>
+        </a></li>
+            <li class="articulo text-dark"><a href="/starter-project-eleventy-github-pages/articulo21">🥭Mango
+        </a></li>
+        </ul>
+
+        <!-- Artículo 2 -->
+        
+        <!-- Artículo 3 -->
+        
+        <!-- Artículo 4 -->
+        
+        <!-- Artículo 5 -->
+        
+
+        <!-- Artículo 6 -->
+        
+        <!-- Artículo 7 -->
+        
+
+        <!-- Artículo 8 -->
+        
+
+        <!-- Artículo 9 -->
+        
+
+        <!-- Artículo 10 -->
+        
+
+        <!-- Artículo 11 -->
+        
+
+        <!-- Artículo 12 -->
+        
+
+        <!-- Artículo 13 -->
+        
+
+        <!-- Artículo 14 -->
+        
+
+        <!-- Artículo 15 -->
+        
+
+        <!-- Artículo 16 -->
+        
+
+        <!-- Artículo 17 -->
+      
+
+        <!-- Artículo 18 -->
+        
+
+        <!-- Artículo 19 -->
+        
+
+        <!-- Artículo 20 -->
+        
         
         <!-- Repite el enlace anterior para cada uno de los 20 artículos -->
         <!-- ... -->
-    </div>
 </div>
-  </main>
-  <hr>
+</main>
+<hr>
 <footer class="footer bg-dark text-white mt-4">
 <div class="container text-center py-3">
         <p>WikiFútbol © 2024. Todos los derechos reservados.</p>
 </div>
 </footer>
 
-  <script src="/starter-project-eleventy-github-pages/js/main.js" type="module"></script>
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="/starter-project-eleventy-github-pages/js/main.js" type="module"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 <script src="/starter-project-eleventy-github-pages/js/search.js" type="module"></script>

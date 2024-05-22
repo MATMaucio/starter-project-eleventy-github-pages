@@ -8,7 +8,7 @@ background: url('https://wallpaperaccess.com/full/1398669.jpg'); # Replace with 
 ---
 
 <!-- Contenido principal del artículo -->
-<div class="container mt-4" style="background: url('https://wallpaperaccess.com/full/1398669.jpg'); background-size: cover; background-repeat: no-repeat; background-position: top;">
+<div class="container mt-4">
     <h1 class="display-4">Reglas del Juego: La Estructura del Fútbol Moderno</h1>
     <p class="lead">El fútbol es un deporte que se juega siguiendo un conjunto de reglas conocidas como las “Leyes del Juego”, que son mantenidas por la International Football Association Board (IFAB). Estas reglas aseguran que el juego sea justo y disfrutable para todos los participantes. A continuación, se presenta un resumen detallado de las reglas básicas del fútbol.</p>
     
